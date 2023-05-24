@@ -1,0 +1,45 @@
+.image {
+  background-color: #89a8d6;
+  font-style: oblique;
+  font-family: cursive;
+  font-display: block;
+  border: 1px solid black;
+  border-radius: 0px 50px 0px 50px;
+  box-shadow: 15px 15px 5px lightblue;
+  background-size: contain;
+}
+.heading {
+  font-weight: bolder;
+  font-style: italic;
+  background-position: center;
+
+}
+.background {
+  background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+  background-position: center;
+}
+
+.background {
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+}
+.container {
+  background-origin: content-box;
+  background-position: center center;
+  background-size: cover;
+  font-style: italic;
+  text-align: center;
+
+}
+
+.container {
+  text-align: center;
+}
+
+.button Submit {
+  border: 1px solid black;
+  border-radius: 25px;
+  background-color: lightblue;
+
+}
